@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## IMG
+
+![captura1](https://github.com/user-attachments/assets/9961bf36-6c74-4aa5-b152-c37737a6d960)
+
+![captura2](https://github.com/user-attachments/assets/1da9bbab-6068-424a-98fc-85645b72cb5f)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
